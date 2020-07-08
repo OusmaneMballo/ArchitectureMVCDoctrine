@@ -38,7 +38,7 @@ final class Versions
   'symfony/service-contracts' => 'v2.1.3@58c7475e5457c5492c26cc740cc0ad7464be9442',
   'symfony/string' => 'v5.1.2@ac70459db781108db7c6d8981dd31ce0e29e3298',
   'symfony/yaml' => 'v2.8.52@02c1859112aa779d9ab394ae4f3381911d84052b',
-  '__root__' => 'dev-master@5e317c3933cda9bd45873d88f3fe9bad9a640464',
+  '__root__' => 'dev-master@556031d824b7861ca85d79779a55c4c6c421b950',
 );
 
     private function __construct()

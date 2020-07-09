@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96c1348d-3cc5-4a22-81a5-58d8a4fa99ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Entites/ClientMoral.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/ClientPhysique.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/Compte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/FraisBancaire.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/TypeClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/TypeCompte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/TypeFrais.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/autoload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,80 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/TypeClient.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
-              <folding>
-                <element signature="e#7#39#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/ClientMoral.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1464">
-              <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
-              <folding>
-                <element signature="e#7#39#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/ClientPhysique.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2424">
-              <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
-              <folding>
-                <element signature="e#7#39#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/TypeCompte.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-              <folding>
-                <element signature="e#7#39#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/TypeFrais.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/autoload.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Entites/FraisBancaire.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Entites/Compte.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-              <folding>
-                <element signature="e#7#39#0#PHP" expanded="true" />
-              </folding>
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -115,6 +40,7 @@
         <option value="$PROJECT_DIR$/src/Entites/ClientPhysique.php" />
         <option value="$PROJECT_DIR$/src/Entites/FraisBancaire.php" />
         <option value="$PROJECT_DIR$/src/Entites/Compte.php" />
+        <option value="$PROJECT_DIR$/config/autoload.php" />
       </list>
     </option>
   </component>
@@ -141,13 +67,12 @@
             <path>
               <item name="TpBPNameSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="TpBPNameSpace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TpBPNameSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="TpBPNameSpace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Entites" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -190,19 +115,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594199972318</updated>
-      <workItem from="1594199974038" duration="13108000" />
+      <workItem from="1594199974038" duration="14562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13108000" />
+    <option name="totallyTimeSpent" value="14562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="23" width="1274" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1599026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1599026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -253,20 +178,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/TypeClient.php">
+    <entry file="file://$PROJECT_DIR$/src/Entites/Compte.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+        <state relative-caret-position="708">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
           <folding>
             <element signature="e#7#39#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/ClientMoral.php">
+    <entry file="file://$PROJECT_DIR$/src/Entites/FraisBancaire.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1464">
-          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+        <state relative-caret-position="528">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entites/TypeFrais.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entites/TypeCompte.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
           <folding>
             <element signature="e#7#39#0#PHP" expanded="true" />
           </folding>
@@ -283,37 +222,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/TypeCompte.php">
+    <entry file="file://$PROJECT_DIR$/src/Entites/ClientMoral.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="1464">
+          <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
           <folding>
             <element signature="e#7#39#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/TypeFrais.php">
+    <entry file="file://$PROJECT_DIR$/src/Entites/TypeClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+          <folding>
+            <element signature="e#7#39#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/FraisBancaire.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entites/Compte.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="e#7#39#0#PHP" expanded="true" />
-          </folding>
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
